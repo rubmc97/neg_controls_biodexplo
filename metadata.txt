@@ -1,0 +1,5 @@
+#SampleID	Soil	Replica
+ExploBlank	Blank	1
+ExploPCRneg1	PCR_neg	1
+ExploPCRneg2	PCR_neg	2
+ExploPCRneg3	PCR_neg	3
